@@ -2,3 +2,4 @@ Hello,git
 Let's do something
 The journey begins...
 master
+This is the new branch dev.
